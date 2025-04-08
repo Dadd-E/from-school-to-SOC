@@ -1,9 +1,8 @@
 # FROM HIGH SCHOOLER TO SOC ANALYST 🚀
 
-![Cyber Security Banner](https://user-images.githubusercontent.com/7890850/148418185-457d6a2d-1f4b-4f7b-8f4c-df15d0a9a535.png)
-*(Image Placeholder: Feel free to replace this with a cool cyber-themed banner!)*
+![Cyber Security Banner](https://onapsis.com/wp-content/uploads/blog-banner-ransomware.png)
 
-Hey Future Cyber Defender! 👋
+I am using this as my guide line to becoming a SOC analyst.
 
 Ever wondered who stops the bad guys online? Who protects your favorite games, social media apps, and even your school's network from hackers? That could be YOU! Working as a **Security Operations Center (SOC) Analyst** is like being a digital detective and first responder, constantly on the lookout for cyber threats and protecting valuable information.
 
